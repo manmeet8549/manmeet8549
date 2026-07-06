@@ -31,8 +31,6 @@
 
 <img src="https://streak-stats.demolab.com?user=manmeet8549&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manmeet8549&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" width="100%">
-
 </div>
 
 ---
