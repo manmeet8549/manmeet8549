@@ -6,7 +6,7 @@
 
 **B.Tech CSE @ PCTE, Ludhiana (2023–2027)**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-manmeetsingh.me-2ea44f?style=for-the-badge)](https://www.manmeetsingh.me/)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-manmeetsingh.me-2ea44f?style=for-the-badge)](https://www.manmeetsingh.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manmeet-singh-0b91262b6)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manmeetsinghvirdi41@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=manmeet8549&style=for-the-badge&color=blueviolet)
@@ -104,7 +104,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 FarmSense AI</h3>
+      <h3 align="center"><a href="https://github.com/manmeet8549/Farm-Sense">🌾 FarmSense AI</a></h3>
       <p align="center"><i>Smart IoT Irrigation System</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
@@ -119,7 +119,7 @@
       <p align="center">🏆 <b>Top 15 · Most Innovative Idea (Agri-Tech)</b><br>CT Hackathon (National Level)</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏠 Roofing Services Website</h3>
+      <h3 align="center"><a href="https://github.com/manmeet8549/roofing-main">🏠 Roofing Services Website</a></h3>
       <p align="center"><i>Full-Stack Business Website</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -149,7 +149,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📚 Personalized Learning Platform</h3>
+      <h3 align="center"><a href="https://github.com/manmeet8549/Vidyavibes">📚 Personalized Learning Platform</a></h3>
       <p align="center"><i>GNA Hackathon 4.0 — Finalist</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Full_Stack-2ea44f?style=flat-square">
@@ -170,9 +170,9 @@
 
 | 🏅 | Achievement | Details |
 |----|-------------|---------|
-| 🥇 | **Winner — Athena Hackathon 2024** | Built a cheating-free online test platform |
-| 🎯 | **Finalist — GNA Hackathon 4.0** | Personalized learning platform with teacher/parent tracking |
-| 🌱 | **Top 15 (National) — CT Hackathon** | Most Innovative Idea (Agri-Tech) for FarmSense AI |
+| 🥇 | **Winner — Athena Hackathon 2024** | Built [Test-Guard](https://github.com/manmeet8549/Test-Guard), a cheating-free online test platform |
+| 🎯 | **Finalist — GNA Hackathon 4.0** | Personalized learning platform ([Vidyavibes](https://github.com/manmeet8549/Vidyavibes)) |
+| 🌱 | **Top 15 (National) — CT Hackathon** | Most Innovative Idea (Agri-Tech) for [FarmSense AI](https://github.com/manmeet8549/Farm-Sense) |
 | 📜 | **Udemy Certified Web Developer** | Full web development certification |
 
 ---
