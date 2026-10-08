@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-manmeetsingh.me-2ea44f?style=for-the-badge)](https://www.manmeetsingh.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manmeet-singh-0b91262b6)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manmeetsinghvirdi41@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=manmeet8549&style=for-the-badge&color=blueviolet)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=manmeet8549&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%238a2be2&style=for-the-badge)
 
 <br>
 
